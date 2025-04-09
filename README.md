@@ -2,6 +2,9 @@
 
 A simple task management web application built with React and .NET.
 
+![image](https://github.com/user-attachments/assets/5a6afc81-e7b0-4deb-b17b-267de9445fa0)
+
+
 ## 🔐 Authentication
 
 To use the app:
